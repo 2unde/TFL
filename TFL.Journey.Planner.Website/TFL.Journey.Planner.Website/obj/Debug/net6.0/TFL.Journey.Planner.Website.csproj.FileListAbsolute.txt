@@ -1,0 +1,15 @@
+C:\Users\tunde\source\repos\TFL.Journey.Planner.Website\TFL.Journey.Planner.Website\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\tunde\source\repos\TFL.Journey.Planner.Website\TFL.Journey.Planner.Website\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\tunde\source\repos\TFL.Journey.Planner.Website\TFL.Journey.Planner.Website\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\tunde\source\repos\TFL.Journey.Planner.Website\TFL.Journey.Planner.Website\bin\Debug\net6.0\TFL.Journey.Planner.Website.deps.json
+C:\Users\tunde\source\repos\TFL.Journey.Planner.Website\TFL.Journey.Planner.Website\bin\Debug\net6.0\TFL.Journey.Planner.Website.dll
+C:\Users\tunde\source\repos\TFL.Journey.Planner.Website\TFL.Journey.Planner.Website\bin\Debug\net6.0\TFL.Journey.Planner.Website.pdb
+C:\Users\tunde\source\repos\TFL.Journey.Planner.Website\TFL.Journey.Planner.Website\obj\Debug\net6.0\TFL.Journey.Planner.Website.csproj.AssemblyReference.cache
+C:\Users\tunde\source\repos\TFL.Journey.Planner.Website\TFL.Journey.Planner.Website\obj\Debug\net6.0\TFL.Journey.Planner.Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunde\source\repos\TFL.Journey.Planner.Website\TFL.Journey.Planner.Website\obj\Debug\net6.0\TFL.Journey.Planner.Website.AssemblyInfoInputs.cache
+C:\Users\tunde\source\repos\TFL.Journey.Planner.Website\TFL.Journey.Planner.Website\obj\Debug\net6.0\TFL.Journey.Planner.Website.AssemblyInfo.cs
+C:\Users\tunde\source\repos\TFL.Journey.Planner.Website\TFL.Journey.Planner.Website\obj\Debug\net6.0\TFL.Journey.Planner.Website.csproj.CoreCompileInputs.cache
+C:\Users\tunde\source\repos\TFL.Journey.Planner.Website\TFL.Journey.Planner.Website\obj\Debug\net6.0\TFL.Journey.Planner.Website.dll
+C:\Users\tunde\source\repos\TFL.Journey.Planner.Website\TFL.Journey.Planner.Website\obj\Debug\net6.0\refint\TFL.Journey.Planner.Website.dll
+C:\Users\tunde\source\repos\TFL.Journey.Planner.Website\TFL.Journey.Planner.Website\obj\Debug\net6.0\TFL.Journey.Planner.Website.pdb
+C:\Users\tunde\source\repos\TFL.Journey.Planner.Website\TFL.Journey.Planner.Website\obj\Debug\net6.0\ref\TFL.Journey.Planner.Website.dll

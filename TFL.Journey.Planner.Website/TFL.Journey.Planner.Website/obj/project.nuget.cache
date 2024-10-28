@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GaFgoAQnetQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tunde\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\tunde\\.nuget\\packages\\selenium.support\\4.25.0\\selenium.support.4.25.0.nupkg.sha512",
+    "C:\\Users\\tunde\\.nuget\\packages\\selenium.webdriver\\4.25.0\\selenium.webdriver.4.25.0.nupkg.sha512",
+    "C:\\Users\\tunde\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\tunde\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\tunde\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

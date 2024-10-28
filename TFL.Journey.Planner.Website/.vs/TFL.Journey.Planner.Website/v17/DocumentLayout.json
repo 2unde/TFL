@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11CC20DC-7ED4-4AA8-A780-F62BB713927E}|TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website.csproj|c:\\users\\tunde\\source\\repos\\tfl.journey.planner.website\\tfl.journey.planner.website\\tfl.journey.planner.website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11CC20DC-7ED4-4AA8-A780-F62BB713927E}|TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website.csproj|solutionrelative:tfl.journey.planner.website\\tfl.journey.planner.website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4777C0CF-F963-4FA9-A48E-0F133057086A}|Journey.Planner.Website.Test\\Journey.Planner.Website.Test.csproj|c:\\users\\tunde\\source\\repos\\tfl.journey.planner.website\\journey.planner.website.test\\features\\journeyplanner.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4777C0CF-F963-4FA9-A48E-0F133057086A}|Journey.Planner.Website.Test\\Journey.Planner.Website.Test.csproj|solutionrelative:journey.planner.website.test\\features\\journeyplanner.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CC20DC-7ED4-4AA8-A780-F62BB713927E}|TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website.csproj|c:\\users\\tunde\\source\\repos\\tfl.journey.planner.website\\tfl.journey.planner.website\\resultspage\\journeyresultpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CC20DC-7ED4-4AA8-A780-F62BB713927E}|TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website.csproj|solutionrelative:tfl.journey.planner.website\\resultspage\\journeyresultpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4777C0CF-F963-4FA9-A48E-0F133057086A}|Journey.Planner.Website.Test\\Journey.Planner.Website.Test.csproj|c:\\users\\tunde\\source\\repos\\tfl.journey.planner.website\\journey.planner.website.test\\stepdefinitions\\journeyplannerstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4777C0CF-F963-4FA9-A48E-0F133057086A}|Journey.Planner.Website.Test\\Journey.Planner.Website.Test.csproj|solutionrelative:journey.planner.website.test\\stepdefinitions\\journeyplannerstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CC20DC-7ED4-4AA8-A780-F62BB713927E}|TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website.csproj|c:\\users\\tunde\\source\\repos\\tfl.journey.planner.website\\tfl.journey.planner.website\\baseclass\\tflbaseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CC20DC-7ED4-4AA8-A780-F62BB713927E}|TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website.csproj|solutionrelative:tfl.journey.planner.website\\baseclass\\tflbaseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CC20DC-7ED4-4AA8-A780-F62BB713927E}|TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website.csproj|c:\\users\\tunde\\source\\repos\\tfl.journey.planner.website\\tfl.journey.planner.website\\properties\\journeylocations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CC20DC-7ED4-4AA8-A780-F62BB713927E}|TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website.csproj|solutionrelative:tfl.journey.planner.website\\properties\\journeylocations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4777C0CF-F963-4FA9-A48E-0F133057086A}|Journey.Planner.Website.Test\\Journey.Planner.Website.Test.csproj|c:\\users\\tunde\\source\\repos\\tfl.journey.planner.website\\journey.planner.website.test\\tflhook\\hook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4777C0CF-F963-4FA9-A48E-0F133057086A}|Journey.Planner.Website.Test\\Journey.Planner.Website.Test.csproj|solutionrelative:journey.planner.website.test\\tflhook\\hook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4777C0CF-F963-4FA9-A48E-0F133057086A}|Journey.Planner.Website.Test\\Journey.Planner.Website.Test.csproj|c:\\users\\tunde\\source\\repos\\tfl.journey.planner.website\\journey.planner.website.test\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4777C0CF-F963-4FA9-A48E-0F133057086A}|Journey.Planner.Website.Test\\Journey.Planner.Website.Test.csproj|solutionrelative:journey.planner.website.test\\implicitusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CC20DC-7ED4-4AA8-A780-F62BB713927E}|TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website.csproj|c:\\users\\tunde\\source\\repos\\tfl.journey.planner.website\\tfl.journey.planner.website\\homepage\\tflhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CC20DC-7ED4-4AA8-A780-F62BB713927E}|TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website.csproj|solutionrelative:tfl.journey.planner.website\\homepage\\tflhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TFL.Journey.Planner.Website.csproj",
+              "DocumentMoniker": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website.csproj",
+              "RelativeDocumentMoniker": "TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website.csproj",
+              "ToolTip": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website.csproj",
+              "RelativeToolTip": "TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T22:15:13.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JourneyResultPage.cs",
+              "DocumentMoniker": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website\\ResultsPage\\JourneyResultPage.cs",
+              "RelativeDocumentMoniker": "TFL.Journey.Planner.Website\\ResultsPage\\JourneyResultPage.cs",
+              "ToolTip": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website\\ResultsPage\\JourneyResultPage.cs",
+              "RelativeToolTip": "TFL.Journey.Planner.Website\\ResultsPage\\JourneyResultPage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:13:11.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JourneyLocations.cs",
+              "DocumentMoniker": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website\\Properties\\JourneyLocations.cs",
+              "RelativeDocumentMoniker": "TFL.Journey.Planner.Website\\Properties\\JourneyLocations.cs",
+              "ToolTip": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website\\Properties\\JourneyLocations.cs",
+              "RelativeToolTip": "TFL.Journey.Planner.Website\\Properties\\JourneyLocations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:12:17.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TflBaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website\\BaseClass\\TflBaseClass.cs",
+              "RelativeDocumentMoniker": "TFL.Journey.Planner.Website\\BaseClass\\TflBaseClass.cs",
+              "ToolTip": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website\\BaseClass\\TflBaseClass.cs",
+              "RelativeToolTip": "TFL.Journey.Planner.Website\\BaseClass\\TflBaseClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:51:43.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JourneyPlannerStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\Journey.Planner.Website.Test\\StepDefinitions\\JourneyPlannerStepDefinitions.cs",
+              "RelativeDocumentMoniker": "Journey.Planner.Website.Test\\StepDefinitions\\JourneyPlannerStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\Journey.Planner.Website.Test\\StepDefinitions\\JourneyPlannerStepDefinitions.cs",
+              "RelativeToolTip": "Journey.Planner.Website.Test\\StepDefinitions\\JourneyPlannerStepDefinitions.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:30:40.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JourneyPlanner.feature",
+              "DocumentMoniker": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\Journey.Planner.Website.Test\\Features\\JourneyPlanner.feature",
+              "RelativeDocumentMoniker": "Journey.Planner.Website.Test\\Features\\JourneyPlanner.feature",
+              "ToolTip": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\Journey.Planner.Website.Test\\Features\\JourneyPlanner.feature",
+              "RelativeToolTip": "Journey.Planner.Website.Test\\Features\\JourneyPlanner.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-27T07:30:33.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hook.cs",
+              "DocumentMoniker": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\Journey.Planner.Website.Test\\TflHook\\Hook.cs",
+              "RelativeDocumentMoniker": "Journey.Planner.Website.Test\\TflHook\\Hook.cs",
+              "ToolTip": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\Journey.Planner.Website.Test\\TflHook\\Hook.cs",
+              "RelativeToolTip": "Journey.Planner.Website.Test\\TflHook\\Hook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:53:45.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImplicitUsings.cs",
+              "DocumentMoniker": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\Journey.Planner.Website.Test\\ImplicitUsings.cs",
+              "RelativeDocumentMoniker": "Journey.Planner.Website.Test\\ImplicitUsings.cs",
+              "ToolTip": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\Journey.Planner.Website.Test\\ImplicitUsings.cs",
+              "RelativeToolTip": "Journey.Planner.Website.Test\\ImplicitUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:12:19.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TflHomePage.cs",
+              "DocumentMoniker": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website\\HomePage\\TflHomePage.cs",
+              "RelativeDocumentMoniker": "TFL.Journey.Planner.Website\\HomePage\\TflHomePage.cs",
+              "ToolTip": "C:\\Users\\tunde\\source\\repos\\TFL.Journey.Planner.Website\\TFL.Journey.Planner.Website\\HomePage\\TflHomePage.cs",
+              "RelativeToolTip": "TFL.Journey.Planner.Website\\HomePage\\TflHomePage.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:28:44.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
